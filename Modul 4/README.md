@@ -1,0 +1,1 @@
+Jadi, pada program diatas kita membuat sebuah program yaitu fragment. Fragment membuat 2 yaitu fragment pertama lalu menuju ke fragment kedua. Jadi program yang saya buat itu meminta user untuk mengisi data ataupun kata yang nantinya akan ditampilkan ke fragment kedua.
