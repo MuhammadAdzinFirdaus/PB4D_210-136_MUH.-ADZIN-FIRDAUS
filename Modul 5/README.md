@@ -1,0 +1,1 @@
+Jadi, pada program diatas kita membuat sebuah 2 Navigation. Untuk Navigation pertama saya namai NavigationHome dan satunya yaitu NavigationProfile. Navigation sendiri adalah alat yang kuat untuk mengelola navigasi dalam aplikasi Android dan juga memudahkan pengguna (user) berpindah dari satu layar ke layar lainnya dengan lancar dan intuitif. 
